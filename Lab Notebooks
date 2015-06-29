@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+
+<header>
+<script>
+
+	boolean Erin = true;
+	boolean Collin = true;
+	boolean Danny = true;
+	boolean Dan = true;
+
+	function nameButtonFunction(var Name)
+	 {
+		if(Name = "Dan"){
+			Dan = !Dan;
+		}else if(Name = "Erin") {
+			Erin = !Erin;
+		} else if(Name = "Collin") {
+			Collin = !Collin
+		} else if(Name = "Danny") {
+			Danny = !Danny
+		}
+	 	var null = "\n";
+
+	 	if (Erin = false)
+	 	{
+	 		document.getElementById("Erin").innerHTML = null;
+	 	}else if (Collin = false)
+	 	{
+	 		document.getElementById("Collin").innerHTML = null;
+	 	}else if (Danny = false)
+	 	{
+	 		document.getElementById("Danny").innerHTML = null;
+	 	}else if (Dan = false)
+	 	{
+	 		document.getElementById("Dan").innerHTML = null;
+	 	}
+
+	 	if (Erin = true)
+	 	{
+	 		document.getElementById("Erin").innerHTML = "These are Erin's lab notes";
+	 	}else if (Collin = true)
+	 	{
+	 		document.getElementById("Collin").innerHTML = "These are Collin's lab notes.";
+	 	}else if (Dan = true)
+	 	{
+	 		document.getElementById("Dan").innerHTML = "These are Dan's lab notes.";
+	 	}else if (Danny = true)
+	 	{
+	 		document.getElementById("Danny").innerHTML = "These are Danny's lab notes."
+	 	 }
+
+
+	 }
+
+
+	 </script>
+</header>
+
+<body>
+<div script = >
+<h1>
+Lab Notebooks
+</h1>
+
+<div id = "buttons">
+	<button type="button" onclick=nameButtonFunction("Dan")> 
+	Dan 
+	</button>
+	<button type="button" onclick="nameButtonFunction(Collin)"> 
+	Collin 
+	</button>
+	<button type="button" onclick="nameButtonFunction(Danny)">
+	 Danny 
+	 </button>
+	<button type="button" onclick="nameButtonFunction(Erin)">
+	 Erin 
+	 </button>
+
+	 
+	<p id= "Dan">
+
+	These are lab notes for Dan
+	</p>
+
+	<p id = "Collin">
+	These are lab notes for Collin
+	</p>
+
+	<p id = "Danny">
+	There are lab notes for Danny
+
+	</p>
+
+	<p id = "Erin">
+	These are Lab notes for Erin
+
+	</p>
+
+</div>
+
+
+
+</div>
+
+<div>
+
+</div>
+
+</body>
+
+
+
+</html>
