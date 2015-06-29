@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<!-- 
+Idea for this page is a really simple format.  There will be a template design for each bio brick, and we will fill out each template.  Particularly useful biobricks will be highlighted in some way (A game Changer section for Ariel's new backbone?)
+
+Format will be:
+<div>
+<a href=""></a>
+
+<h3> Gene Name: </h3>
+<p>
+Biobrick Name:
+Function:
+Promoters if applicable:
+Method of isolation:
+Homologues:
+Experience/ Testing:
+Description:
+</p>
+</div>
+
+Maybe have a funny picture related to the gene in each set up.
+Will figure out how to code this ASAP.
+
+-->
+<html>
+<header>
+</header>
+
+<body>
+
+<div>
+<!-- This div will be used for an explanation of our biobricks, like a survey so to speak.
+-->
+</div>
+
+<div>
+<!-- This div will be a side bar.  parts will be broken down into respestive categories, and you can skip ahead to each respestice part or category.  Hopefull we can make some sort of useful chart with information that people can click on that will port them to a spot on the web. 
+-->
+</div>
+
+
+
+</body>
+
+</html>
