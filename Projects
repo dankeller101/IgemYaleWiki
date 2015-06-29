@@ -1,0 +1,97 @@
+
+<!--this page is  going to be the page detailing all of our projects.  There will be links to the 
+other experiments, a side bar on the inside that jumps the page to each section,
+and a lot pf pictures and explanations as to why we attempted each thing
+maybe have an animation or some sort of movement on screen -->
+
+<!DOCTYPE html>
+<html>
+<header>
+</header>
+
+<div>
+<!-- this div will be used for the main tool bar on top of the screen -->
+</div>
+
+<div>
+<!--this div will be used for the side tool bar which allows easy access to the info on each project
+this will probably require Javascript -->
+</div>
+
+<body>
+<!-- this body contains all of the project information, images, and other elements of the body of the webpage-->
+<h1>  Projects: Creating a Framework for the development of Toolkits for new Species </h1>
+<div>
+<!--this div will be used for the over all explanation of the broad, over arching aspect of our project.  Here we can discuss the framework we designed,how we applied it, and how it can be applied to other species (THIS MAY WANT TO BE ON THE MAIN PAGE??)-->
+	<h2> Main Pursuits </h2>
+	<p>
+		Blah blah blah we intend to make this for this
+	</p>
+		<h3>  Development Framework </h3>
+		<p> Go into the frame work, explain the steps, give examples.</p>
+		<h3> Parts</h3>
+		<p> What we ended up actually making, etc. (??) </p>
+		<h3> Selected Species </h3>
+		<p> Go into why we selected these species, why they are important </p>
+		<h3> How this helps IGEM </h3>
+		<p> 
+		Talk about how this framework and toolkit can help expand the boundaries
+		of synthetic biology.  How this work helps IGEM teams expand crucial
+		techniques into hundreds of different industrially important species
+		and help broaden the scope and power of synthetic biology exponentially.
+		Basically, bullshit a lot to sound incredibly helpful and useful, Yay!
+		Framework helps establish these techniques... Etc.
+		</p>
+</div>
+
+<div>
+<!-- This div can be used to explain Cyanobacteria.  It will be a cyanobacteria toolbox, including, ideally, promoters, recombination proteins, protocols, strain information, Mage, and Crispr.  WE can use a Div for each each section. -->
+	<h2> Cyanobacteria Toolkit </h2>
+	<div>
+	<h3> Promoters </h3>
+	<p> Go into promoters, blahblah blah </p>
+	</div>
+	<div>
+	<h3> Strains </h3>
+	<p> Self explanatory</p>
+	</div>
+	<div>
+	<h3> MAGE </h3>
+	<p> Self explanatory, go into HOW we made it happen </p>
+	</div>
+	<div>
+	<h3> CRISPR </h3>
+	<p> Same bullshit </p>
+	</div>
+	<div>
+	<h3>Particular Issues and Resolutions</h3>
+	<p> Go into the issues with cyano and how we worked around them </p>
+	</div>
+</div>
+
+<div>
+<!-- this div can be used to explain Rhizobium.  It will be a Rhizobium toolbox, including, ideally, promoters, recombination proteins, protocols, strain information, Mage, and Crispr.  WE can use a Div for each each section. -->
+	<h2> Rhizobium Toolkit </h2>
+	<div>
+	<h3> Promoters </h3>
+	<p> Go into promoters, blahblah blah </p>
+	</div>
+	<div>
+	<h3> Strains </h3>
+	<p> Self explanatory</p>
+	</div>
+	<div>
+	<h3> MAGE </h3>
+	<p> Self explanatory, go into HOW we made it happen </p>
+	</div>
+	<div>
+	<h3> CRISPR </h3>
+	<p> Same bullshit </p>
+	</div>
+	<h3>Particular Issues and Resolutions</h3>
+	<p> Go into the issues with cyano and how we worked around them </p>
+	</div>
+
+</div>
+</body>
+</html>
